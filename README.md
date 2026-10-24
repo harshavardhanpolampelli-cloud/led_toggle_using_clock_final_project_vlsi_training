@@ -1,4 +1,7 @@
 # led_toggle_using_clock_final_project_vlsi_traning
+video link:
+https://drive.google.com/file/d/1VZYWMEbZ5kQ1SHntgWdYNatYdDmwr_lX/view?usp=drivesdk
+
 # LED Blinker: Complete RTL-to-GDSII Flow
 
 ### Clock-driven LED toggle design on SkyWater sky130hd using open-source tools
